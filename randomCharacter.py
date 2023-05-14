@@ -8,7 +8,7 @@ races = ["Human", "Dwarf", "Elf", "Orc", "Halfling", "Dragonborn", "Gnome", "Gol
 classes = ["Bard", "Barbarian", "Cleric", "Fighter", "Monk", "Paladin", "Ranger", "Rouge", "Sorcerer", "Warlock", "Wizard," "Druid", "Warrior"]
 
 randomIndex = random.randint(0, len(classes) -1)
-
+#test#
 
 def __getAbilityScores__(characterClasses):
 
